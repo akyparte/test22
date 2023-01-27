@@ -3,6 +3,5 @@ there was once a dog who was eating some food
 line 1 from remote 
 line 2 from remote
 line 3 from local
-line 4 from remote
-
+line 4 from local 
 
